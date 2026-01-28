@@ -23,8 +23,6 @@ Para jugar solo descargar Snake.exe
 
 ---
 
-## Créditos
-Inspirado en el clásico juego Snake que todos jugamos en los celulares antiguos.  
 
 
 
