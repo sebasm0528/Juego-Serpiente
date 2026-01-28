@@ -7,7 +7,7 @@ El objetivo es comer la comida que aparece en pantalla y crecer sin chocar con l
 
 ---
 
-Para jugar solo descargar Snake.exe
+Para descargar usar el siguiente enlace: https://github.com/sebasm0528/Juego-Serpiente/blob/main/Snake.exe
 
 ---
 
