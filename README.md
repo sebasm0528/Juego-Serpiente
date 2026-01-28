@@ -16,7 +16,7 @@ Para jugar solo descargar Snake.exe
 ---
 
 ## Funcionalidades
-- Movimiento de la serpiente usando flechas/teclas WASD
+- Movimiento de la serpiente usando las flechas
 - Comida aleatoria en pantalla
 - Contador de puntuación
 - Colisiones y fin del juego
